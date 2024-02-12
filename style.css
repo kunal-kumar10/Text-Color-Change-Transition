@@ -54,3 +54,9 @@ h1::before{
         width: 0%;
     }
 }
+
+@media screen and (width< 700px) {
+    html{
+        font-size: 6px;
+    }
+}
